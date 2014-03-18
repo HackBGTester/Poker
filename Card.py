@@ -5,3 +5,6 @@ class Card():
 
 	def get_suit(self):
 		return self.__suit
+
+	def get_type(self):
+		return self.__type
